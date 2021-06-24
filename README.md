@@ -13,7 +13,7 @@ components as templates with the ability to render variable content.
 
 There are two discrete parts of this lab, and they should be tackled one after
 the other. We will need to first create a `Comment` component from scratch and
-then add a few things to the `ColorBox` component.
+then add a few things to the `ColorBox` component..
 
 All of the css has been provided, as well as a good amount of starter code. The
 general structure has already been provided - you are to pick up where the code
